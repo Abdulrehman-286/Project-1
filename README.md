@@ -1,1 +1,1 @@
-# This is my first game by using basics of python.
+# Making some basic projects by using python
